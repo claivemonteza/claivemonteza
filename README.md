@@ -25,6 +25,7 @@ I really enjoy studying and developing personal projects.
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-grey?style=flat&logo=java&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/hibernate-21759B?style=flat&logo=hibernate&logoColor=white) 
+![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipse-0078D4?style=flat&logo=eclipse&logoColor=white) 
