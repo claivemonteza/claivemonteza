@@ -25,13 +25,13 @@ I really enjoy studying and developing personal projects.
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-![Wordpress Badge](https://img.shields.io/badge/Wordpress-00000F?style=flat&logo=wordpress&logoColor=white) 
+![Wordpress Badge](https://img.shields.io/badge/Wordpress-00000F?style=flat&logo=wordpress&logoColor=white) <br/>
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white) 
-![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) 
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) <br/>
 ![Eclipse](https://img.shields.io/badge/eclipse-0078D4?style=flat&logo=eclipse&logoColor=white) 
-![Apache NetBeans IDE Badge](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white) 
+![Apache NetBeans IDE Badge](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Maven Badge](https://img.shields.io/badge/apache%20maven-C71A36?style=flat&logo=apache%20maven) 
+![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
