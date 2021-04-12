@@ -33,5 +33,5 @@ I really enjoy studying and developing personal projects.
 ![Apache NetBeans IDE Badge](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white)
 ![Wordpress Badge](https://img.shields.io/badge/Wordpress-00000F?style=flat&logo=wordpress&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![Maven Badge](https://img.shields.io/badge/apache%20maven-C71A36?style=flat&logo=apache%20maven) 
+![Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache%20maven) 
 ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
