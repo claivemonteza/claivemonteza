@@ -23,7 +23,6 @@ I really enjoy studying and developing personal projects.
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
 ![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/SQL-00000F?style=flat&logo=sql&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-grey?style=flat&logo=java&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/hibernate-21759B?style=flat&logo=hibernate&logoColor=white) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
