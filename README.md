@@ -8,7 +8,7 @@ I really enjoy studying and developing personal projects.
    🌎 **"The more I know, the more things I do"** 🧠
 
 - 👨‍💻 My strengths stand out with Java, Hibernate, MySql, HTML, CSS, Bootstrap
-- 📫 Como entrar em contato comigo **[claivemonteza@gmail.com](mailto:claivemonteza@gmail.com)**
+- 📫 How to contact me **[claivemonteza@gmail.com](mailto:claivemonteza@gmail.com)**
 
 
  Where to find me 👇
