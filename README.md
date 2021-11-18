@@ -9,7 +9,7 @@ I really enjoy studying and developing personal projects.
 
 - 👨‍💻 My strengths stand out with Java, Hibernate, MySql, HTML, CSS, Bootstrap
 - 📫 How to contact me **[claivemonteza@outlook.com](mailto:claivemonteza@outlook.com)**
-- 🌐 Portfolio **[https://claivemonteza.github.io/portfolio/]
+- 🌐 Portfolio https://claivemonteza.github.io/portfolio/
 
  Where to find me 👇
  
