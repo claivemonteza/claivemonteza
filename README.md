@@ -7,7 +7,7 @@ I really enjoy studying and developing personal projects.
 
    🌎 **"The more I know, the more things I do"** 🧠
 
-- 👨‍💻 My strengths stand out with Java, Hibernate, MySql, HTML, CSS, Bootstrap
+- 👨‍💻 My strengths stand out with Java, Spring Boot, Hibernate, MySql, Angular, HTML, CSS
 - 📫 How to contact me **[claivemonteza@outlook.com](mailto:claivemonteza@outlook.com)**
 - 🌐 Portfolio https://claivemonteza.github.io/portfolio-v1/
 
@@ -17,18 +17,14 @@ I really enjoy studying and developing personal projects.
 
 **🚀💻 Technologies & Tools**
 
-
+![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white) 
+![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white) <br/>
+[Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br/>
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
+!
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)<br/>
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white) 
-![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) <br/>
-![Eclipse](https://img.shields.io/badge/eclipse-0078D4?style=flat&logo=eclipse&logoColor=white) 
-![Wordpress Badge](https://img.shields.io/badge/Wordpress-00000F?style=flat&logo=wordpress&logoColor=white) 
-![Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache%20maven) 
-![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
