@@ -1,10 +1,9 @@
 # Hi, I'm Claive Monteza👋
 
 **I am a student of software engineering, very passionate about process automation, application and system development, UI and UX Interface design.**
+<br/> 
 
-I want to be a **FullStack Web Developer** but now I'm currently focused on **Front end Developer** and building significant products of high performance and great quality.<br/> 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claivemonteza)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claivemonteza&show_icons=true)
 
 I really enjoy studying and developing personal projects. 
 
