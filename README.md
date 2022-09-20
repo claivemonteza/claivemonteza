@@ -3,12 +3,15 @@
 **I am a student of software engineering, very passionate about process automation, application and system development, UI and UX Interface design.**
 
 I want to be a **FullStack Web Developer** but now I'm currently focused on **Front end Developer** and building significant products of high performance and great quality.<br/> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claivemonteza)](https://github.com/anuraghazra/github-readme-stats)
+
 I really enjoy studying and developing personal projects. 
 
    🌎 **"The more I know, the more things I do"** 🧠
 
 - 👨‍💻 My strengths stand out with Java, Spring Boot, Hibernate, MySql, Angular, HTML, CSS
-- 📫 How to contact me **[claivemonteza@outlook.com](mailto:claivemonteza@outlook.com)**
+- 📫 How to contact me **[claivemonteza@gmail.com](mailto:claivemonteza@gmail.com)**
 - 🌐 Portfolio https://claivemonteza.github.io/portfolio-v1/
 
  Where to find me 👇
