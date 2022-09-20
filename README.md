@@ -3,7 +3,7 @@
 **I am a student of software engineering, very passionate about process automation, application and system development, UI and UX Interface design.**
 <br/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claivemonteza&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claivemonteza&show_icons=true&count_private=true&theme=dark)
 
 I really enjoy studying and developing personal projects. 
 
