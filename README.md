@@ -1,4 +1,4 @@
-# Hi, I'm Claive Monteza👋
+# Hi, I'm Claive Monteza
 
 **I am a student of software engineering, very passionate about process automation, application and system development, UI and UX Interface design.**
 <br/> 
